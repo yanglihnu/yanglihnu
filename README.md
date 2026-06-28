@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Li Yang (lylyz6)
+# Hi there 👋, I'm Yang Li
 
 - 🎓 **Master Student in Software Engineering @ Hainan University**
 - 🔬 **Research Interest:** Computational Pathology | Deep Learning | Computer Vision
